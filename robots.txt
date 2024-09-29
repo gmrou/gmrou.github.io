@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gmrou.github.io/KJR/sitemap.KJR.gz
